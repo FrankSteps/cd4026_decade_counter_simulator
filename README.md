@@ -1,1 +1,1 @@
-# CD4033 Decade Counter Simulator
+# CD4026 Decade Counter Simulator
